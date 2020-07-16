@@ -12,7 +12,5 @@ module.exports = {
 		"https://dylanatsmith.com/wrote/democratisation-of-knowledge-in-a-capitalist-industry",
 		"https://dylanatsmith.com/wrote/case-study-redesigning-and-refactoring-an-enterprise-web-app",
 		"https://dylanatsmith.com/wrote/a-million-email-geeks-on-a-million-keyboards",
-		// RSS feed
-		"https://dylanatsmith.com/feed.xml",
 	]
 };
